@@ -1,4 +1,4 @@
-<img width="1533" height="641" alt="Screenshot 2026-06-19 200843" src="https://github.com/user-attachments/assets/2378e5d8-d654-4a28-838f-1085315b9d21" />This project analyzes and visualizes ABC Electronics' regional sales data using Microsoft Excel to uncover key business insights, 
+This project analyzes and visualizes ABC Electronics' regional sales data using Microsoft Excel to uncover key business insights, 
 identify performance trends, 
 and support data-driven decision-making through dashboards and interactive reports
 Developed an interactive Excel dashboard to analyze 4,000 sales records,
